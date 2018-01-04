@@ -1,1 +1,8 @@
 theme: jekyll-theme-architect
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+    values:
+      title: 杰世欣
